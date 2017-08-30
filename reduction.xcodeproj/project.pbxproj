@@ -12,6 +12,7 @@
 		C0FD943C1F572A7700827502 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C0FD943A1F572A7700827502 /* Main.storyboard */; };
 		C0FD943E1F572A7700827502 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C0FD943D1F572A7700827502 /* Assets.xcassets */; };
 		C0FD94411F572A7700827502 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C0FD943F1F572A7700827502 /* LaunchScreen.storyboard */; };
+		C0FD94491F573F0C00827502 /* reduction.csv in Resources */ = {isa = PBXBuildFile; fileRef = C0FD94481F573F0C00827502 /* reduction.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		C0FD943D1F572A7700827502 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C0FD94401F572A7700827502 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C0FD94421F572A7700827502 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C0FD94481F573F0C00827502 /* reduction.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = reduction.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				C0FD94381F572A7700827502 /* ViewController.swift */,
 				C0FD943A1F572A7700827502 /* Main.storyboard */,
 				C0FD943D1F572A7700827502 /* Assets.xcassets */,
+				C0FD94481F573F0C00827502 /* reduction.csv */,
 				C0FD943F1F572A7700827502 /* LaunchScreen.storyboard */,
 				C0FD94421F572A7700827502 /* Info.plist */,
 			);
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C0FD94491F573F0C00827502 /* reduction.csv in Resources */,
 				C0FD94411F572A7700827502 /* LaunchScreen.storyboard in Resources */,
 				C0FD943E1F572A7700827502 /* Assets.xcassets in Resources */,
 				C0FD943C1F572A7700827502 /* Main.storyboard in Resources */,

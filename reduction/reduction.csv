@@ -1,0 +1,4 @@
+id,identifier,species_id,height,weight,base_experience,order,is_default
+1,adidas,1,7,69,64,1,1
+2,nike,2,10,130,142,2,1
+3,reboke,3,20,1000,236,3,1
